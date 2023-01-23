@@ -1,0 +1,41 @@
+Linux commands:  
+                                                   
+sudo su - allows you to run a command in root.
+pwd -current working directory
+mkdir - to create a directory
+touch - to create empty files
+rmdir - to delete a directory
+cd - change current directory
+ls -list the files and directories
+cat -multi usage,creating a file,display content of the file,copy content from one file to another file
+rm - to remove a file
+cp -copy a file or directory
+mv -move a file/directory from one location to another
+rename - renaming a large group of files
+head - displays the content/displays first 10 lines of files
+tail - display last 10  lines of files content
+history -to review the old commands we execute
+tac - displays file content in reverse order
+su - provide admin access to another user
+useradd - to add a new user
+userdel - to delete a user
+id - to display user id 
+passwd - to create a user password
+groupadd - to create group
+ping -to find ip address and connectivity between 2 nodes
+ifconfig - display current network configuration information
+telnet - to check whether port is open or not
+netstat - check connectivity between networks
+chown - change user ownership
+chown: change group ownership
+chmod - to change permissions
+dig - for DNS information
+top - find cpu and memory usage
+grep - searching and matching text files
+whoami - tocheck current user
+find - to find specific file/directory
+df - to display disc space
+exit - exit current shell
+clear - clear current terminal
+ssh - create remote connection through ssh protocol
+host - display  ip address. 
